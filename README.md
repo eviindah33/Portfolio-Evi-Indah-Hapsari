@@ -1,4 +1,4 @@
-# Hi, Welcome to my Portfolio
+# Hi, Welcome to My Portfolio
 
 ## 🚀 About Me
 
