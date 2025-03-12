@@ -1,12 +1,14 @@
+# Hi, Welcome to my Portfolio
+
 ## 🚀 About Me
 
 👋 Hi! I'm Evi!
 
-👩‍💻 I am currently working at PT Bank Mandiri Tbk as Software Quality Assurance
+👩‍💻 I am currently working at PT Bank Mandiri Tbk as a Software Quality Assurance
 
 📫 How to reach me : eviindah33@gmail.com and https://www.linkedin.com/in/evi-indah-hapsari-9ba9b3201/
 
-Hi, Welcome to my Portfolio
+
 
 ## Courses, training
 
