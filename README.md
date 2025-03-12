@@ -22,7 +22,7 @@ Hi, Welcome to my Portfolio
 
 ### API Postman test
 
-Testing Postman API Kasir aja - [🧾Detail Script] (https://documenter.getpostman.com/view/24291223/2sA3BobBwc)
+Testing Postman API Kasir aja - [🧾Detail Script](https://documenter.getpostman.com/view/24291223/2sA3BobBwc)
 
 ### API automation test
 
