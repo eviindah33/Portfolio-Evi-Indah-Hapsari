@@ -40,4 +40,4 @@ Testing automation kasirdemo - [🧾Detail Script](https://github.com/eviindah33
 
 ### Mobile Automation
 
-Mobile testing automation qpk diet - [🧾Detail Script](https://github.com/eviindah33/Tugas-Akhir-2-Mobile-Automation/tree/master)
+Mobile testing automation apk diet - [🧾Detail Script](https://github.com/eviindah33/Tugas-Akhir-2-Mobile-Automation/tree/master)
