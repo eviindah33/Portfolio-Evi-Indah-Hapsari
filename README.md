@@ -38,6 +38,6 @@ Katalon Saucedemo - [🧾Detail Script](https://github.com/eviindah33/Tugas-Peka
 
 Testing automation kasirdemo - [🧾Detail Script](https://github.com/eviindah33/Tugas-Akhir-QA-Automation-Sanbercode/tree/master)
 
-### Mobile Automation
+### Mobile Automation - Appium
 
 Mobile testing automation apk diet - [🧾Detail Script](https://github.com/eviindah33/Tugas-Akhir-2-Mobile-Automation/tree/master)
